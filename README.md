@@ -9,7 +9,7 @@ The motivation behind this project is to help visually impaired person to percep
    - pip install -q git+https://github.com/huggingface/transformers.git
    - opencv
    - Flask
-   - torch (gets installed with the first command but if ir is not installed, install separately)
+   - torch (gets installed with the first command but if it is not installed, install separately)
 2) For completing the dependencies of node.py, following needs to be installed : 
    - speech_recognition (will require to install pyaudio)
    - pyttsx3
